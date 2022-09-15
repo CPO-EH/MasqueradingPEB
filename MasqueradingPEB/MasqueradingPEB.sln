@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MasqueradingPEB", "MasqueradingPEB.vcxproj", "{EC7B7E3C-DF6A-4F47-909F-FA08647A1F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7B7E3C-DF6A-4F47-909F-FA08647A1F81}.Debug|x64.ActiveCfg = Debug|x64
+		{EC7B7E3C-DF6A-4F47-909F-FA08647A1F81}.Debug|x64.Build.0 = Debug|x64
+		{EC7B7E3C-DF6A-4F47-909F-FA08647A1F81}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC7B7E3C-DF6A-4F47-909F-FA08647A1F81}.Debug|x86.Build.0 = Debug|Win32
+		{EC7B7E3C-DF6A-4F47-909F-FA08647A1F81}.Release|x64.ActiveCfg = Release|x64
+		{EC7B7E3C-DF6A-4F47-909F-FA08647A1F81}.Release|x64.Build.0 = Release|x64
+		{EC7B7E3C-DF6A-4F47-909F-FA08647A1F81}.Release|x86.ActiveCfg = Release|Win32
+		{EC7B7E3C-DF6A-4F47-909F-FA08647A1F81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEAEFF0F-E1BC-4FF1-A2F7-D2C659738069}
+	EndGlobalSection
+EndGlobal
